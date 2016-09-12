@@ -1,1 +1,4 @@
 book 4 txt new text
+
+added text to remove from commit list
+forgot to add one more line, adding now.
