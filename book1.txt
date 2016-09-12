@@ -1,3 +1,3 @@
-Title: Book 1
+Title: The Great GIT
 
 book 1 text
