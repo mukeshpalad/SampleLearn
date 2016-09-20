@@ -1,7 +1,8 @@
 book 1 text
-fdfdfdfd
+fdfdfdfd;
 new text
-your first modification of car branch
+an other conflict
+- your first modification of car branch
 this is to conflict
 second modification for car branch
 third modificaiton for car branch
